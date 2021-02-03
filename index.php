@@ -21,6 +21,6 @@
 </head>
 <body>
   <h1><?php echo get_bloginfo('name'); ?></h1>
-<p>Huch, wo kommstn du her? Hier gibts eigentlich nichts zu sehen, die Seite die du suchst findeste hier: <a href="<?php echo $frontendUrl; ?>" title="Bring mich hin"><?php echo $frontendUrl; ?></a></p>
+  <p>Huch, wo kommstn du her? Hier gibts eigentlich nichts zu sehen, die Seite die du suchst findeste hier: <a href="<?php echo $frontendUrl; ?>" title="Bring mich hin"><?php echo $frontendUrl; ?></a></p>
 </body>
 </html>
