@@ -1,6 +1,6 @@
 # WP Headless
 
-Just upload and activate and you're good to go.
+Just upload and activate, and you're good to go.
 
 ## Recommended plugins (for usage with Gatsby)
 
@@ -9,3 +9,6 @@ Just upload and activate and you're good to go.
 - WP Gatsby
 - WP GraphQL
 - WPGraphQL for Advanced Custom Fields
+- Imsanity (image resizing)
+
+Happy hacking! 💜
