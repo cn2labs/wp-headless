@@ -1,8 +1,8 @@
-# WP Headless
+# ⚡️ WP Headless
 
 Just upload and activate, and you're good to go.
 
-## Recommended plugins (for usage with Gatsby)
+## 🔋 Recommended plugins (for usage with Gatsby)
 
 - Advanced Custom Fields
 - Classic Editor
@@ -10,5 +10,7 @@ Just upload and activate, and you're good to go.
 - WP GraphQL
 - WPGraphQL for Advanced Custom Fields
 - Imsanity (image resizing)
+- Headless Mode
+- JAMstack Deployments
 
 Happy hacking! 💜
