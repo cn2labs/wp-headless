@@ -1,6 +1,6 @@
 # ⚡️ WP Headless
 
-Just upload and activate, and you're good to go.
+Just upload, hit "activate", and you're good to go.
 
 ## 🔋 Recommended plugins (for usage with Gatsby)
 
@@ -9,6 +9,7 @@ Just upload and activate, and you're good to go.
 - WP Gatsby
 - WP GraphQL
 - WPGraphQL for Advanced Custom Fields
+- WPGraphQL Custom Post Type UI
 - Imsanity (image resizing)
 - Headless Mode
 - JAMstack Deployments
