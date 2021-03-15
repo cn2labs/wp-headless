@@ -7,11 +7,11 @@
   add_action('admin_menu', 'remove_page_attribute_meta_box');
 
   // Remove default editor from pages
-  function remove_editor_from_post_type() {
-    remove_post_type_support( 'page', 'editor' );
-  }
+  // function remove_editor_from_post_type() {
+  //   remove_post_type_support( 'page', 'editor' );
+  // }
 
-  add_action('init', 'remove_editor_from_post_type');
+  // add_action('init', 'remove_editor_from_post_type');
 
   // Set custom logo for the login screen
   function custom_login_logo() {
